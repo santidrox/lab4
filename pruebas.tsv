@@ -1,0 +1,82 @@
+ID	Entrada	Esperado	Obtenido
+P01	Cafe 500 kg A humedad 13.4	5640.00	5640.00
+P02	Cafe 500 kg A humedad 12.01	5820.00	5820.00
+P03	Cafe 500 kg A humedad 13 exacto	5820.00	5820.00
+P04	Cafe 500 kg A humedad 14	5640.00	5640.00
+P05	Cafe 500 kg A humedad 8	6000.00	6000.00
+P06	Cafe 500 kg B humedad 12	4500.00	4500.00
+P07	Cafe 500 kg C humedad 12	3000.00	3000.00
+P08	Organico 500 kg A 13.4; sello vigente	6015.00	6015.00
+P09	Cardamomo 80 kg B 90% verde	4224.00	4224.00
+P10	Cardamomo 80 kg A 85% verde	5280.00	5280.00
+P11	Cardamomo 80 kg C 84.99% verde	2800.00	2800.00
+P12	Hortaliza 200 kg A merma 5%	760.00	760.00
+P13	Hortaliza 200 kg B merma 5%	570.00	570.00
+P14	Hortaliza 200 kg C merma 5%	380.00	380.00
+P15	Queso 40 kg A grasa 10; empaque	1460.00	1460.00
+P16	Queso 40 kg B grasa 40; empaque	1140.00	1140.00
+P17	Preliquidar H sin recibir	760.00; estado identico	760.00; estado identico
+P18	Recibir H 200 kg A	760.00;200	760.00;200
+P19	Vencimiento H ingreso 2026-03-05 + 7	2026-03-12	2026-03-12
+P20	Vencimiento cardamomo +180; queso +21; cafe	2026-09-01;2026-03-26;false	2026-09-01;2026-03-26;false
+P21	Despachar 150 kg H; cobrar costo x1.35	769.50;50	769.50;50
+P22	Mismo dia de vencimiento	DISPONIBLE;50	DISPONIBLE;50
+P23	Reporte incluye lote que vence hoy	H	H
+P24	Dia siguiente; descartar 50 kg a Q3.80	DESCARTADO;0;190.00;0	DESCARTADO;0;190.00;0
+P25	No repetir perdida por lote ya descartado	190.00	190.00
+P26	Cafe humedad 7.99	Rechazo; estado identico	Rechazo; estado identico
+P27	Cafe humedad 14.01	Rechazo; estado identico	Rechazo; estado identico
+P28	Organico sello un dia antes del ingreso	Rechazo; estado identico	Rechazo; estado identico
+P29	Queso calidad C	Rechazo; estado identico	Rechazo; estado identico
+P30	Peso cero	Rechazo; estado identico	Rechazo; estado identico
+P31	Peso negativo	Rechazo; estado identico	Rechazo; estado identico
+P32	Codigo vacio	Rechazo; estado identico	Rechazo; estado identico
+P33	Productor vacio	Rechazo; estado identico	Rechazo; estado identico
+P34	Certificadora vacia	Rechazo; estado identico	Rechazo; estado identico
+P35	Grano verde -0.1	Rechazo; estado identico	Rechazo; estado identico
+P36	Grano verde 100.1	Rechazo; estado identico	Rechazo; estado identico
+P37	Vida util 2 dias	Rechazo; estado identico	Rechazo; estado identico
+P38	Vida util 15 dias	Rechazo; estado identico	Rechazo; estado identico
+P39	Grasa 9.9	Rechazo; estado identico	Rechazo; estado identico
+P40	Grasa 40.1	Rechazo; estado identico	Rechazo; estado identico
+P41	Capacidad cero	Rechazo; estado identico	Rechazo; estado identico
+P42	Bodega S1 repetida	Rechazo; estado identico	Rechazo; estado identico
+P43	Cafe en camara fria	Rechazo; estado identico	Rechazo; estado identico
+P44	Hortaliza en bodega seca	Rechazo; estado identico	Rechazo; estado identico
+P45	Queso en bodega seca	Rechazo; estado identico	Rechazo; estado identico
+P46	Lote 1001 kg en bodega 1000	Rechazo; estado identico	Rechazo; estado identico
+P47	Bodega inexistente	Rechazo; estado identico	Rechazo; estado identico
+P48	Codigo de lote repetido	Rechazo; estado identico	Rechazo; estado identico
+P49	Preliquidacion de codigo repetido	Rechazo; estado identico	Rechazo; estado identico
+P50	Intentar mover lote a otra bodega	Rechazo; estado identico	Rechazo; estado identico
+P51	Ingreso distinto de fecha operacion	Rechazo; estado identico	Rechazo; estado identico
+P52	Pedido 501 kg con 500 disponibles	Rechazo; estado identico	Rechazo; estado identico
+P53	Pedido categoria sin existencias	Rechazo; estado identico	Rechazo; estado identico
+P54	Pedido cero	Rechazo; estado identico	Rechazo; estado identico
+P55	Comprador vacio	Rechazo; estado identico	Rechazo; estado identico
+P56	Retroceder fecha	Rechazo; estado identico	Rechazo; estado identico
+P57	Avanzar cero dias	Rechazo; estado identico	Rechazo; estado identico
+P58	Orden global: perecedero, fecha, calidad, codigo	CAR,HOR,ANT,A,AA,0B	CAR,HOR,ANT,A,AA,0B
+P59	Iteracion de S1 ordenada	CAR,AA,0B	CAR,AA,0B
+P60	Despacho multibodega 25 kg toma ANT10,A10,AA5	ANT:10,A:10,AA:5;324.00	ANT:10,A:10,AA:5;324.00
+P61	Agotados salen y liberan capacidad	0;CAR,AA,0B;5	0;CAR,AA,0B;5
+P62	Codigo agotado no puede reutilizarse	Rechazo; estado identico	Rechazo; estado identico
+P63	Proximos 3 dias incluye limites 1 y 3	CAR,HOR	CAR,HOR
+P64	Descarte durante iteracion retira multiples lotes	AA,0B;77.00;7.60	AA,0B;77.00;7.60
+P65	Carga inicial 10 lotes, 3 bodegas y dos por categoria	10;3;true	10;3;true
+P66	Carga inicial sin pagos, cobros ni perdidas	0;0;0	0;0;0
+P67	Capacidad decimal exacta 0.1+0.2=0.3	0.3	0.3
+P68	Exceso decimal de capacidad	Rechazo; estado identico	Rechazo; estado identico
+P69	Dos cafes empatados por codigo	D1,D2	D1,D2
+P70	Iterador impide retirar un lote disponible	true;0.3	true;0.3
+P71	Ejemplo cafe: despacho 100 kg costo 11.28	1522.80	1522.80
+P72	Cardamomo en camara fria	Rechazo; estado identico	Rechazo; estado identico
+P73	Numero mal escrito	Rechazo; estado identico	Rechazo; estado identico
+P74	Numero no finito	Rechazo; estado identico	Rechazo; estado identico
+P75	Entero mal escrito	Rechazo; estado identico	Rechazo; estado identico
+P76	Fecha imposible	Rechazo; estado identico	Rechazo; estado identico
+P77	Calidad D	Rechazo; estado identico	Rechazo; estado identico
+P78	Perecederos misma fecha: calidad y codigo	HA,HB,H0	HA,HB,H0
+P79	Iterador descarta tres lotes consecutivos	0;10.45	0;10.45
+P80	Organico 0.02 kg A 13.4: redondeo unico	0.24	0.24
+TOTAL	80	APROBADAS	80

@@ -1,0 +1,102 @@
+
+AcopioGT | Fecha: 2026-11-16
+1. Pre-liquidar lote
+2. Recibir lote
+3. Registrar bodega
+4. Registrar pedido y despachar
+5. Avanzar fecha
+6. Existencias por categoria
+7. Contenido de bodegas
+8. Vencen en los proximos 3 dias
+9. Reporte financiero
+10. Historial de lotes
+0. Salir
+Opcion: Operacion rechazada: Ingrese un entero valido.
+
+AcopioGT | Fecha: 2026-11-16
+1. Pre-liquidar lote
+2. Recibir lote
+3. Registrar bodega
+4. Registrar pedido y despachar
+5. Avanzar fecha
+6. Existencias por categoria
+7. Contenido de bodegas
+8. Vencen en los proximos 3 dias
+9. Reporte financiero
+10. Historial de lotes
+0. Salir
+Opcion: Codigo de bodega: Capacidad en kg: Operacion rechazada: Ingrese un numero valido, con punto para los decimales.
+
+AcopioGT | Fecha: 2026-11-16
+1. Pre-liquidar lote
+2. Recibir lote
+3. Registrar bodega
+4. Registrar pedido y despachar
+5. Avanzar fecha
+6. Existencias por categoria
+7. Contenido de bodegas
+8. Vencen en los proximos 3 dias
+9. Reporte financiero
+10. Historial de lotes
+0. Salir
+Opcion: Nueva fecha (AAAA-MM-DD): Operacion rechazada: Fecha invalida. Use AAAA-MM-DD.
+
+AcopioGT | Fecha: 2026-11-16
+1. Pre-liquidar lote
+2. Recibir lote
+3. Registrar bodega
+4. Registrar pedido y despachar
+5. Avanzar fecha
+6. Existencias por categoria
+7. Contenido de bodegas
+8. Vencen en los proximos 3 dias
+9. Reporte financiero
+10. Historial de lotes
+0. Salir
+Opcion: Categoria HORTALIZA: 320 kg
+HO-01 | HORTALIZA | productor=Sara Diaz | ingreso=2026-11-10 | A | 200 kg | DISPONIBLE | bodega=FRIA-1 | vence=2026-11-17
+HO-02 | HORTALIZA | productor=Juan Sol | ingreso=2026-11-10 | B | 120 kg | DISPONIBLE | bodega=FRIA-1 | vence=2026-11-17
+Categoria QUESO_FRESCO: 70 kg
+QU-01 | QUESO_FRESCO | productor=Lucia Mar | ingreso=2026-10-27 | A | 40 kg | DISPONIBLE | bodega=FRIA-1 | vence=2026-11-17
+QU-02 | QUESO_FRESCO | productor=David Rey | ingreso=2026-11-13 | B | 30 kg | DISPONIBLE | bodega=FRIA-1 | vence=2026-12-04
+Categoria CARDAMOMO: 140 kg
+CA-01 | CARDAMOMO | productor=Elena Gil | ingreso=2026-05-21 | B | 80 kg | DISPONIBLE | bodega=SECA-1 | vence=2026-11-17
+CA-02 | CARDAMOMO | productor=Pedro Leon | ingreso=2026-11-06 | C | 60 kg | DISPONIBLE | bodega=SECA-2 | vence=2027-05-05
+Categoria CAFE: 600 kg
+CF-02 | CAFE | productor=Ana Lopez | ingreso=2026-11-12 | A | 500 kg | DISPONIBLE | bodega=SECA-1 | vence=No vence
+CF-01 | CAFE | productor=Luis Perez | ingreso=2026-11-12 | B | 100 kg | DISPONIBLE | bodega=SECA-2 | vence=No vence
+Categoria CAFE_ORGANICO: 570 kg
+CO-01 | CAFE_ORGANICO | productor=Rosa Ruiz | ingreso=2026-11-14 | A | 500 kg | DISPONIBLE | bodega=SECA-2 | vence=No vence
+CO-02 | CAFE_ORGANICO | productor=Mario Paz | ingreso=2026-11-15 | C | 70 kg | DISPONIBLE | bodega=SECA-1 | vence=No vence
+
+AcopioGT | Fecha: 2026-11-16
+1. Pre-liquidar lote
+2. Recibir lote
+3. Registrar bodega
+4. Registrar pedido y despachar
+5. Avanzar fecha
+6. Existencias por categoria
+7. Contenido de bodegas
+8. Vencen en los proximos 3 dias
+9. Reporte financiero
+10. Historial de lotes
+0. Salir
+Opcion: CAFE | pagado=Q0.00 | cobrado=Q0.00 | perdidas=Q0.00
+CAFE_ORGANICO | pagado=Q0.00 | cobrado=Q0.00 | perdidas=Q0.00
+CARDAMOMO | pagado=Q0.00 | cobrado=Q0.00 | perdidas=Q0.00
+HORTALIZA | pagado=Q0.00 | cobrado=Q0.00 | perdidas=Q0.00
+QUESO_FRESCO | pagado=Q0.00 | cobrado=Q0.00 | perdidas=Q0.00
+
+AcopioGT | Fecha: 2026-11-16
+1. Pre-liquidar lote
+2. Recibir lote
+3. Registrar bodega
+4. Registrar pedido y despachar
+5. Avanzar fecha
+6. Existencias por categoria
+7. Contenido de bodegas
+8. Vencen en los proximos 3 dias
+9. Reporte financiero
+10. Historial de lotes
+0. Salir
+Opcion: 

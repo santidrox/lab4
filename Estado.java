@@ -1,0 +1,1 @@
+public enum Estado { DISPONIBLE, AGOTADO, DESCARTADO }

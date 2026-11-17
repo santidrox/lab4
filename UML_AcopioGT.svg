@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3070" height="2110" viewBox="0 0 3070 2110">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="triangle" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto"><path d="M 1 1 L 13 7 L 1 13 Z" fill="white" stroke="black" stroke-width="1.2"/></marker><marker id="arrow" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="10" markerHeight="10" orient="auto"><path d="M1 1 L11 6 L1 11" fill="none" stroke="black" stroke-width="1.3"/></marker></defs>
+<path d="M570,150 L1230,150" fill="none" stroke="black" stroke-width="2.5" marker-end="url(#triangle)"/>
+<path d="M2430,150 L1770,150" fill="none" stroke="black" stroke-width="2.5" marker-end="url(#triangle)"/>
+<path d="M1500,350 L1500,264" fill="none" stroke="black" stroke-width="2.5" stroke-dasharray="11 8" marker-end="url(#triangle)"/>
+<path d="M300,460 L300,305 L2700,305 L2700,350" fill="none" stroke="black" stroke-width="2.5" stroke-dasharray="11 8" marker-end="url(#arrow)"/>
+<text x="2150" y="295" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">usa</text>
+<path d="M2430,540 L1770,540" fill="none" stroke="black" stroke-width="2.5"/>
+<text x="1790" y="525" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">0..*</text>
+<path d="M300,1010 L300,900 L1500,900 L1500,831" fill="none" stroke="black" stroke-width="2.5" marker-end="url(#triangle)"/>
+<path d="M1500,1010 L1500,900 L1500,900 L1500,831" fill="none" stroke="black" stroke-width="2.5" marker-end="url(#triangle)"/>
+<path d="M2100,1010 L2100,900 L1500,900 L1500,831" fill="none" stroke="black" stroke-width="2.5" marker-end="url(#triangle)"/>
+<path d="M2700,1010 L2700,900 L1500,900 L1500,831" fill="none" stroke="black" stroke-width="2.5" marker-end="url(#triangle)"/>
+<path d="M630,1130 L570,1130" fill="none" stroke="black" stroke-width="2.5" marker-end="url(#triangle)"/>
+<path d="M1500,1010 L1500,960 L600,960 L600,260 L300,260 L300,235" fill="none" stroke="black" stroke-width="2.5" stroke-dasharray="11 8" marker-end="url(#triangle)"/>
+<path d="M2100,1010 L2100,960 L1500,960" fill="none" stroke="black" stroke-width="2.5" stroke-dasharray="11 8"/>
+<path d="M2700,1010 L2700,960 L2100,960" fill="none" stroke="black" stroke-width="2.5" stroke-dasharray="11 8"/>
+<path d="M2100,1010 L2100,985 L3005,985 L3005,270 L2700,270 L2700,177" fill="none" stroke="black" stroke-width="2.5" stroke-dasharray="11 8" marker-end="url(#triangle)"/>
+<path d="M2700,1010 L2700,985 L3005,985" fill="none" stroke="black" stroke-width="2.5" stroke-dasharray="11 8"/>
+<path d="M2430,690 L2390,690 L2390,1450 L900,1450 L900,1510" fill="none" stroke="black" stroke-width="2.5"/>
+<text x="2400" y="720" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">1</text>
+<text x="912" y="1495" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">0..*</text>
+<path d="M1170,1650 L1200,1650 L1200,740 L1230,740" fill="none" stroke="black" stroke-width="2.5"/>
+<text x="1080" y="1638" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">0..1</text>
+<text x="1195" y="725" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">0..*</text>
+<path d="M2430,735 L2410,735 L2410,1475 L1500,1475 L1500,1510" fill="none" stroke="black" stroke-width="2.5"/>
+<text x="1520" y="1498" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">0..*</text>
+<path d="M1770,1650 L1830,1650" fill="none" stroke="black" stroke-width="2.5"/>
+<text x="1780" y="1638" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" font-style="normal">1..*</text>
+<path d="M2100,1510 L2100,1490 L1800,1490 L1800,730 L1770,730" fill="none" stroke="black" stroke-width="2.5"/>
+<text x="1788" y="718" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">1</text>
+<path d="M2970,690 L3040,690 L3040,1660 L2970,1660" fill="none" stroke="black" stroke-width="2.5"/>
+<text x="2980" y="1650" font-family="DejaVu Sans, sans-serif" font-size="18" font-weight="normal" font-style="normal">0..*</text>
+<rect x="30" y="60" width="540" height="175" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="48" y="87" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">«interface»</text>
+<text x="48" y="116" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Perecedero</text>
+<path d="M30,130 H570" stroke="black" stroke-width="2"/>
+<text x="45" y="159" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getIngreso(): Fecha</text>
+<text x="45" y="188" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getVidaUtil(): int</text>
+<text x="45" y="217" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getVencimiento(): Optional&lt;Fecha&gt;</text>
+<rect x="1230" y="60" width="540" height="204" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="1248" y="87" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">«interface»</text>
+<text x="1248" y="116" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Producto</text>
+<path d="M1230,130 H1770" stroke="black" stroke-width="2"/>
+<text x="1245" y="159" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getCategoria(): String</text>
+<text x="1245" y="188" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+calcularPago(): Decimal</text>
+<text x="1245" y="217" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getVencimiento(): Optional&lt;Fecha&gt;</text>
+<text x="1245" y="246" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getAlmacenamiento(): String</text>
+<rect x="2430" y="60" width="540" height="117" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="2448" y="87" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">«interface»</text>
+<text x="2448" y="116" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Refrigerado</text>
+<path d="M2430,130 H2970" stroke="black" stroke-width="2"/>
+<text x="2445" y="159" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getAlmacenamiento(): String</text>
+<rect x="30" y="350" width="540" height="121" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="48" y="381" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Principal</text>
+<path d="M30,395 H570" stroke="black" stroke-width="2"/>
+<text x="45" y="424" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-Principal()</text>
+<text x="45" y="453" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+main(args: String[]): void {static}</text>
+<rect x="1230" y="350" width="540" height="481" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="1248" y="377" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">«abstract»</text>
+<text x="1248" y="406" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="italic">Lote</text>
+<path d="M1230,420 H1770" stroke="black" stroke-width="2"/>
+<text x="1245" y="448" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-codigo: String</text>
+<text x="1245" y="477" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-productor: String</text>
+<text x="1245" y="506" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-ingreso: Fecha</text>
+<text x="1245" y="535" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-pesoRecibido: Decimal</text>
+<text x="1245" y="564" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-disponible: Decimal</text>
+<text x="1245" y="593" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-calidad: Calidad</text>
+<text x="1245" y="622" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-estado: Estado</text>
+<text x="1245" y="651" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-bodega: String</text>
+<path d="M1230,668 H1770" stroke="black" stroke-width="2"/>
+<text x="1245" y="697" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">#Lote(c,p,f,kg,q)</text>
+<text x="1245" y="726" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getCostoKg(): Decimal</text>
+<text x="1245" y="755" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+compareTo(otro: Lote): int</text>
+<text x="1245" y="784" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">~consumir(kg: Decimal): void</text>
+<text x="1245" y="813" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">~descartar(): Decimal</text>
+<rect x="2430" y="350" width="540" height="427" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="2448" y="381" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Acopio</text>
+<path d="M2430,395 H2970" stroke="black" stroke-width="2"/>
+<text x="2445" y="423" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-fecha: Fecha</text>
+<text x="2445" y="452" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-bodegas: Map&lt;String, Bodega&gt;</text>
+<text x="2445" y="481" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-historial: Map&lt;String, Lote&gt;</text>
+<text x="2445" y="510" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-finanzas: Map&lt;String, ResumenFinanciero&gt;</text>
+<text x="2445" y="539" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-despachos: List&lt;Despacho&gt;</text>
+<path d="M2430,556 H2970" stroke="black" stroke-width="2"/>
+<text x="2445" y="585" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+Acopio(fecha: Fecha)</text>
+<text x="2445" y="614" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+preliquidar(lote: Lote): Decimal</text>
+<text x="2445" y="643" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+recibir(lote: Lote, b: String): void</text>
+<text x="2445" y="672" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+despachar(comprador, categoria, kg):</text>
+<text x="2445" y="701" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">  Despacho</text>
+<text x="2445" y="730" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+avanzarFecha(fecha: Fecha): void</text>
+<text x="2445" y="759" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getExistencias(): List&lt;Lote&gt;</text>
+<rect x="30" y="1010" width="540" height="195" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="48" y="1041" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Cafe</text>
+<path d="M30,1055 H570" stroke="black" stroke-width="2"/>
+<text x="45" y="1083" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-humedad: Decimal</text>
+<path d="M30,1100 H570" stroke="black" stroke-width="2"/>
+<text x="45" y="1129" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+Cafe(c,p,f,kg,q,h)</text>
+<text x="45" y="1158" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+calcularPago(): Decimal {override}</text>
+<text x="45" y="1187" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">#calcularBase(): Decimal</text>
+<rect x="630" y="1010" width="540" height="195" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="648" y="1041" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">CafeOrganico</text>
+<path d="M630,1055 H1170" stroke="black" stroke-width="2"/>
+<text x="645" y="1083" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-certificadora: String</text>
+<text x="645" y="1112" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-validezSello: Fecha</text>
+<path d="M630,1129 H1170" stroke="black" stroke-width="2"/>
+<text x="645" y="1158" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+CafeOrganico(c,p,f,kg,q,h,cert,sello)</text>
+<text x="645" y="1187" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+calcularPago(): Decimal {override}</text>
+<rect x="1230" y="1010" width="540" height="195" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="1248" y="1041" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Cardamomo</text>
+<path d="M1230,1055 H1770" stroke="black" stroke-width="2"/>
+<text x="1245" y="1083" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-granoVerde: Decimal</text>
+<path d="M1230,1100 H1770" stroke="black" stroke-width="2"/>
+<text x="1245" y="1129" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+Cardamomo(c,p,f,kg,q,verde)</text>
+<text x="1245" y="1158" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+calcularPago(): Decimal {override}</text>
+<text x="1245" y="1187" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getVidaUtil(): int {override}</text>
+<rect x="1830" y="1010" width="540" height="195" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="1848" y="1041" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Hortaliza</text>
+<path d="M1830,1055 H2370" stroke="black" stroke-width="2"/>
+<text x="1845" y="1083" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-vidaUtil: int</text>
+<path d="M1830,1100 H2370" stroke="black" stroke-width="2"/>
+<text x="1845" y="1129" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+Hortaliza(c,p,f,kg,q,dias)</text>
+<text x="1845" y="1158" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+calcularPago(): Decimal {override}</text>
+<text x="1845" y="1187" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getVidaUtil(): int {override}</text>
+<rect x="2430" y="1010" width="540" height="195" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="2448" y="1041" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">QuesoFresco</text>
+<path d="M2430,1055 H2970" stroke="black" stroke-width="2"/>
+<text x="2445" y="1083" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-grasa: Decimal</text>
+<path d="M2430,1100 H2970" stroke="black" stroke-width="2"/>
+<text x="2445" y="1129" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+QuesoFresco(c,p,f,kg,q,grasa)</text>
+<text x="2445" y="1158" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+calcularPago(): Decimal {override}</text>
+<text x="2445" y="1187" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getVidaUtil(): int {override}</text>
+<rect x="30" y="1510" width="540" height="117" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="48" y="1537" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">«enumeration»</text>
+<text x="48" y="1566" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Calidad</text>
+<path d="M30,1580 H570" stroke="black" stroke-width="2"/>
+<text x="45" y="1609" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">A, B, C</text>
+<rect x="30" y="1700" width="540" height="117" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="48" y="1727" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">«enumeration»</text>
+<text x="48" y="1756" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Estado</text>
+<path d="M30,1770 H570" stroke="black" stroke-width="2"/>
+<text x="45" y="1799" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">DISPONIBLE, AGOTADO, DESCARTADO</text>
+<rect x="630" y="1510" width="540" height="336" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="648" y="1537" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="normal" font-style="normal">«Iterable&lt;Lote&gt;»</text>
+<text x="648" y="1566" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Bodega</text>
+<path d="M630,1580 H1170" stroke="black" stroke-width="2"/>
+<text x="645" y="1608" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-codigo: String</text>
+<text x="645" y="1637" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-capacidad: Decimal</text>
+<text x="645" y="1666" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-ambiente: String</text>
+<text x="645" y="1695" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-lotes: List&lt;Lote&gt;</text>
+<path d="M630,1712 H1170" stroke="black" stroke-width="2"/>
+<text x="645" y="1741" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+Bodega(codigo, capacidad, ambiente)</text>
+<text x="645" y="1770" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+validar(lote: Lote): void</text>
+<text x="645" y="1799" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getOcupacion(): Decimal</text>
+<text x="645" y="1828" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+iterator(): Iterator&lt;Lote&gt;</text>
+<rect x="1230" y="1510" width="540" height="282" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="1248" y="1541" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">Despacho</text>
+<path d="M1230,1555 H1770" stroke="black" stroke-width="2"/>
+<text x="1245" y="1583" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-comprador: String</text>
+<text x="1245" y="1612" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-categoria: String</text>
+<text x="1245" y="1641" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-fecha: Fecha</text>
+<text x="1245" y="1670" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-lineas: List&lt;LineaDespacho&gt;</text>
+<text x="1245" y="1699" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-total: Decimal</text>
+<path d="M1230,1716 H1770" stroke="black" stroke-width="2"/>
+<text x="1245" y="1745" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+Despacho(comprador,categoria,fecha,lineas)</text>
+<text x="1245" y="1774" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getTotal(): Decimal</text>
+<rect x="1830" y="1510" width="540" height="224" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="1848" y="1541" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">LineaDespacho</text>
+<path d="M1830,1555 H2370" stroke="black" stroke-width="2"/>
+<text x="1845" y="1583" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-lote: Lote</text>
+<text x="1845" y="1612" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-kg: Decimal</text>
+<text x="1845" y="1641" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-importe: Decimal</text>
+<path d="M1830,1658 H2370" stroke="black" stroke-width="2"/>
+<text x="1845" y="1687" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+LineaDespacho(lote: Lote, kg: Decimal)</text>
+<text x="1845" y="1716" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+getImporte(): Decimal</text>
+<rect x="2430" y="1510" width="540" height="282" fill="white" stroke="black" stroke-width="2.5"/>
+<text x="2448" y="1541" font-family="DejaVu Sans, sans-serif" font-size="25" font-weight="bold" font-style="normal">ResumenFinanciero</text>
+<path d="M2430,1555 H2970" stroke="black" stroke-width="2"/>
+<text x="2445" y="1583" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-pagos: Decimal</text>
+<text x="2445" y="1612" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-cobros: Decimal</text>
+<text x="2445" y="1641" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">-perdidas: Decimal</text>
+<path d="M2430,1658 H2970" stroke="black" stroke-width="2"/>
+<text x="2445" y="1687" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">+ResumenFinanciero()</text>
+<text x="2445" y="1716" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">~pagar(monto: Decimal): void</text>
+<text x="2445" y="1745" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">~cobrar(monto: Decimal): void</text>
+<text x="2445" y="1774" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">~perder(monto: Decimal): void</text>
+<text x="35" y="1950" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">UML resumido: atributos y operaciones principales. + publico, - privado, # protegido, ~ acceso de paquete.</text>
+<text x="35" y="1985" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">Linea continua con triangulo: herencia. Linea discontinua con triangulo: implementacion. Las otras lineas muestran colaboraciones.</text>
+<text x="35" y="2020" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">Decimal = BigDecimal; Fecha = LocalDate. Datos comunes: c y p son String; f es Fecha; kg es Decimal; q es Calidad.</text>
+<text x="35" y="2055" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="normal" font-style="normal">h, verde y grasa: Decimal; dias: int; cert: String; sello: Fecha. Lote cumple Comparable&lt;Lote&gt;; Bodega cumple Iterable&lt;Lote&gt;.</text>
+</svg>
